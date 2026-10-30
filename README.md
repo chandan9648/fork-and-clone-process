@@ -894,3 +894,9 @@ After merge:
 
 **Expected outcome:** Every contribution is isolated, traceable,
 reviewable, tested, and merged through an approved workflow.
+
+## Contributor
+
+- Name: Sachin Raj
+- GitHub: sraj2232007
+- Role: Contributor
